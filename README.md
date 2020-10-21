@@ -1,6 +1,6 @@
 # StockIndex-NeuralNetworks
 
-####Prévision Indice S&P 500 
+#### Prévision Indice S&P 500 
 
 Consignes du projet: 
 
