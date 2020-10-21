@@ -17,7 +17,3 @@ Vous avez carte blanche pour définir le contour de votre outil mais ce dernier 
 - Intégrer le projet dans un contexte professionnel pour la restitution de votre travail. En d'autres termes, imaginez que vous n'êtes plus étudiants mais par exemple collaborateurs d'une société de gestion ou d'une salle de marché financier.
 
 Interface : L’implémentation se fera uniquement sous Python. Une interface sous Excel est autorisée.
-
-Organisation : Les projets doivent être réalisés par groupe de 3 étudiants (au maximum). La remise des projets est prévue sous forme de présentation orale (le 19 Mars 2020 pour les GRA) et envoi par email au plus tard le 22 mars 2020. Concernant IMSD, une date vous sera fournie ultérieurement.
-
-Conseil : Le projet n'est pas compliqué en soi. J'insiste donc sur le professionnalisme de votre travail, sur votre créativité et sur votre présentation (à l'oral comme à l'écrit).
